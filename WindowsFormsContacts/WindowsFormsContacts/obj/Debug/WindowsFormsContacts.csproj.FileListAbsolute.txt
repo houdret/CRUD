@@ -1,0 +1,12 @@
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\bin\Debug\WindowsFormsContacts.exe.config
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\bin\Debug\WindowsFormsContacts.exe
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\bin\Debug\WindowsFormsContacts.pdb
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.csproj.AssemblyReference.cache
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.csproj.SuggestedBindingRedirects.cache
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.ContactDetails.resources
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.Main.resources
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.Properties.Resources.resources
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.csproj.GenerateResource.cache
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.csproj.CoreCompileInputs.cache
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.exe
+D:\c#\WindowsFormsContacts\WindowsFormsContacts\obj\Debug\WindowsFormsContacts.pdb
